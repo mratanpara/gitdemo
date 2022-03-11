@@ -68,7 +68,7 @@ class _OnBoardingState extends State<OnBoarding> {
               Padding(
                 padding: EdgeInsets.symmetric(vertical: 10),
                 child: Text(
-                  'The best simple place wheasdsadre you discover most wonderful furniture\'s and make your home beautiful',
+                  'The best simple place where you discover most wonderful furniture\'s and make your home beautiful',
                 ),
               ),
             ],
